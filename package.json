@@ -1,0 +1,20 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "firebase hostingとかfirebase authとかを試してみるsandbox",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --out-dir public --public-url .",
+    "deploy": "firebase deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yoshiaki Satoh / 佐藤禎章",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.4.1",
+    "typescript": "^2.6.2"
+  }
+}
