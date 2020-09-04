@@ -13,7 +13,7 @@
   "author": "Yoshiaki Satoh / 佐藤禎章",
   "license": "MIT",
   "devDependencies": {
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "parcel-bundler": "^1.12.4",
     "typescript": "^3.6.4"
   }
